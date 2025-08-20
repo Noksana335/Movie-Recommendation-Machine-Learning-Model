@@ -28,7 +28,7 @@ An interactive supervised learning model for movie recommendations built with Re
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Noksana335/movie-recommendation-ml.git
+git clone (https://github.com/Noksana335/Movie-Recommendation-Machine-Learning-Model.git)
 cd movie-recommendation-ml
 ```
 
