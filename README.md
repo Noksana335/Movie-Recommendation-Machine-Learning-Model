@@ -54,8 +54,8 @@ Open [http://localhost:8501](http://localhost:8501)
 
 #### Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/movie-recommendation-ml.git
-cd movie-recommendation-ml/react-app
+git clone https://github.com/Noksana335/Movie-Recommendation-Machine-Learning-Model.git
+cd Movie-Recommendation-Machine-Learning-Model/react-app
 npm install
 npm start
 ```
@@ -68,8 +68,8 @@ npm start
 
 #### Installation
 ```bash
-git clone https://github.com/YOUR_USERNAME/movie-recommendation-ml.git
-cd movie-recommendation-ml/python-app
+git clone https://github.com/Noksana335/Movie-Recommendation-Machine-Learning-Model.git
+cd Movie-Recommendation-Machine-Learning-Model/python-app
 pip install -r requirements.txt
 streamlit run main.py
 ```
